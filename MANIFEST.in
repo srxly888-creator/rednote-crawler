@@ -1,0 +1,6 @@
+global-exclude cookies*.json
+global-exclude *.db
+prune profiles
+prune logs
+prune results
+prune scrape_logs

@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rednote-drission-crawler"
+version = "0.1.0"
+description = "A resilient Xiaohongshu (RedNote) crawler based on DrissionPage."
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "DrissionPage>=4.0",
+    "loguru",
+    "tenacity",
+    "requests"
+]
+
+[project.optional-dependencies]
+images = ["Pillow"]
+
+[project.urls]
+"Homepage" = "https://github.com/yourusername/xhs-drission-crawler"
+"Bug Tracker" = "https://github.com/yourusername/xhs-drission-crawler/issues"

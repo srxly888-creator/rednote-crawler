@@ -1,0 +1,4 @@
+DrissionPage>=4.0
+loguru
+tenacity
+requests
