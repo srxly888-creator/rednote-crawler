@@ -215,7 +215,7 @@ If this project helps you, please consider buying me a coffee! Your support powe
 
 - **🇨🇳 China**: WeChat Pay / Alipay
 - **🌍 International**: PayPal (Standard choice for mainland devs) or USDT
-![QR Code](qrcode/PayPal.jpg)
+![QR Cod](https://github.com/srxly888-creator/rednote-crawler/blob/main/qrcode/PayPal.JPG)
 <!-- ![Payment QR Code](qrcode.jpg) -->
 <!-- PayPal.Me/YourName -->
 
