@@ -211,11 +211,13 @@ Roadmap（欢迎 PR/讨论）：
 
 ## 请作者喝杯咖啡 / Buy me a Coffee ☕️
 
-**Code by a Girl.** 👩🏻‍💻
-
 如果本项目对你有所帮助，欢迎打赏支持！你的支持是我维护项目的动力。
 
 - **🇨🇳 China**: WeChat Pay / Alipay (微信/支付宝)
+![QR Code](qrcode/Alipay.jpg)
+
+![QR Code](qrcode/WeChatPay.jpg)
+
 - **🌍 International**: PayPal (Standard choice for mainland devs) or USDT
 
 <!-- ![Payment QR Code](qrcode.jpg) -->
