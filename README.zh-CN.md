@@ -214,9 +214,10 @@ Roadmap（欢迎 PR/讨论）：
 如果本项目对你有所帮助，欢迎打赏支持！你的支持是我维护项目的动力。
 
 - **🇨🇳 China**: WeChat Pay / Alipay (微信/支付宝)
-![QR Code](qrcode/Alipay.jpg)
+![QR Cod](https://github.com/srxly888-creator/rednote-crawler/blob/main/qrcode/AliPay.JPG)
 
-![QR Code](qrcode/WeChatPay.jpg)
+
+![QR Cod](https://github.com/srxly888-creator/rednote-crawler/blob/main/qrcode/WeChatPay.JPG)
 
 - **🌍 International**: PayPal (Standard choice for mainland devs) or USDT
 
