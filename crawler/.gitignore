@@ -1,0 +1,16 @@
+# General
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+.DS_Store
+
+# Sensitive Data
+cookies.json
+cookies_backup.json
+*.db
+*.sqlite3
+
+# Backups
+*_backup.py
+*.bak
